@@ -1,0 +1,30 @@
+d=7  D0=2  k=4  stabilizer size 6
+order-3 elements: [[3, 2; 4, 3], [3, 5; 3, 3]] traces [6, 6]
+minpoly degree 12  height ~10^3
+polredbest: new defining polynomial height ~10^2
+#automorphisms 6  (Galois iff = degree)
+candidates from automorphisms: 6
+expressions done
+saved expressions
+exact: all e_p in Q(e0), e_p e_{-p}=1, sqrt(D0) in Q(e0)
+Gal(K/Q) abelian: 1
+|Gal(K/F)| = 6
+Gal(K/F) abelian: 1
+kappa (e0->1/e0) in Gal(K/F): 1
+  kappa inverts every e_p: 1
+fundamental unit Mod(y + 1, y^2 - 2)  norm -1
+expression denominators: Mat([239, 1])
+prime ideals tested: 634   (skipped for residue collisions: 1)
+  inert Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [219, 219, 438]
+  inert Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [219, 0, 219]
+  inert Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [219, 0, 219]
+  inert Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [219, 219, 438]
+  split Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [415, 197, 394]
+  split Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [415, 0, 415]
+  split Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [415, 0, 415]
+  split Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [415, 415, 830]
+PARI place 1 is inf- (sqrt D0 -> -1)
+relative degree [K:F] = 6
+conductor of K/F: finite part [[7, [-3, 1]~, 1, 1, [3, 2; 1, 3]], 1; [7, [3, 1]~, 1, 1, [-3, 2; 1, -3]], 1] ; archimedean [1, 0]
+Cl(d inf-) = [6]
+ray classes hit by tested primes: 6 of 6

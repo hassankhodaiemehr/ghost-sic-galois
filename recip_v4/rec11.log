@@ -1,0 +1,30 @@
+d=11  D0=6  k=4  stabilizer size 3
+order-3 elements: [[4, 10; 10, 6], [6, 1; 1, 4]] traces [10, 10]
+minpoly degree 80  height ~10^20
+polredbest: new defining polynomial height ~10^20
+#automorphisms 40  (Galois iff = degree)
+candidates from automorphisms: 40
+expressions done
+saved expressions
+exact: all e_p in Q(e0), e_p e_{-p}=1, sqrt(D0) in Q(e0)
+Gal(K/Q) abelian: 1
+|Gal(K/F)| = 40
+Gal(K/F) abelian: 1
+kappa (e0->1/e0) in Gal(K/F): 1
+  kappa inverts every e_p: 1
+fundamental unit Mod(-2*y + 5, y^2 - 6)  norm 1
+expression denominators: [2, 1; 11, 1; 109, 1; 197, 2; 397, 1; 419, 1; 461, 1; 463, 1; 661, 1; 947, 1; 1123, 1; 1321, 1; 2377, 1; 2531, 1; 3433, 1; 3697, 1; 4027, 1; 5347, 1; 6007, 1; 6073, 1; 6269, 1; 6863, 1; 7459, 1; 11617, 1; 12211, 1; 15643, 1; 16633, 1; 16963, 1; 48311, 1; 59663, 1; 108769, 1; 109363, 1; 145531, 1; 252737, 1; 409397, 1; 949147, 1; 1035409, 1; 1694879, 1; 2021251, 1; 3380189, 1; 4398241, 1; 6432691, 1; 7238683, 1; 14836273, 1; 15240259, 1; 26855203, 1; 29224997, 1; 99169027, 1; 115301209, 1; 117353477, 1; 430931227, 1; 706373779, 1; 1497043417, 1; 14216603017, 1; 59435283403, 1; 225324599611, 1; 1584341117041, 1; 8311515855523, 1; 24111486074281, 1; 33996071413921, 1; 249055231932673, 1; 1869498219822619, 1; 2105456088252859, 1; 8308384720001521, 1; 23104874373626761, 1]
+prime ideals tested: 526   (skipped for residue collisions: 0)
+  inert Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [180, 180, 360]
+  inert Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [180, 180, 360]
+  inert Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [180, 180, 360]
+  inert Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [180, 180, 360]
+  split Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [346, 162, 324]
+  split Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [346, 346, 692]
+  split Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [346, 86, 172]
+  split Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [346, 70, 140]
+PARI place 1 is inf- (sqrt D0 -> -1)
+relative degree [K:F] = 40
+conductor of K/F: finite part Mat([[11, [11, 0]~, 1, 2, 1], 1]) ; archimedean [1, 0]
+Cl(d inf-) = [40]
+ray classes hit by tested primes: 40 of 40

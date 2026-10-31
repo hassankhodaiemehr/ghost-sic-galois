@@ -1,0 +1,29 @@
+d=15  D0=3  k=8  stabilizer size 6
+order-3 elements: [[0, 14; 1, 14], [14, 1; 14, 0]] traces [14, 14]
+minpoly degree 48  height ~10^13
+polredbest: new defining polynomial height ~10^11
+#automorphisms 24  (Galois iff = degree)
+expressions done
+saved expressions
+exact: all e_p in Q(e0), e_p e_{-p}=1, sqrt(D0) in Q(e0)
+Gal(K/Q) abelian: 1
+|Gal(K/F)| = 24
+Gal(K/F) abelian: 1
+kappa (e0->1/e0) in Gal(K/F): 1
+  kappa inverts every e_p: 1
+fundamental unit Mod(y - 2, y^2 - 3)  norm 1
+expression denominators: [5, 2; 31, 1; 41, 1; 659, 2; 1321, 1; 1621, 1; 2339, 1; 3271, 1; 14461, 1; 22381, 1; 32381, 1; 100411, 1; 179099, 1; 614881, 1; 817979, 1; 1140959, 1; 8487181, 1; 9402461, 1; 20500019, 1; 36000059, 1; 37475281, 1; 154910039, 1; 187015141, 1; 611373541, 1; 1893737161, 1; 2562007081, 1; 34211197619, 1; 3345425996221, 1; 5953855683661, 1; 3612027168125564521, 1]
+prime ideals tested: 514   (skipped for residue collisions: 19)
+  inert Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [181, 181, 362]
+  inert Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [181, 181, 362]
+  inert Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [181, 181, 362]
+  inert Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [181, 181, 362]
+  split Lam pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [333, 165, 330]
+  split Lam pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [333, 333, 666]
+  split Lam^-1 pos@inf+  [tested, law holds for all sign-normalized generators, for some]: [333, 50, 100]
+  split Lam^-1 pos@inf-  [tested, law holds for all sign-normalized generators, for some]: [333, 33, 66]
+PARI place 1 is inf- (sqrt D0 -> -1)
+relative degree [K:F] = 24
+conductor of K/F: finite part [[3, [0, 1]~, 2, 1, [0, 3; 1, 0]], 2; [5, [5, 0]~, 1, 2, 1], 1] ; archimedean [1, 0]
+Cl(d inf-) = [24]
+ray classes hit by tested primes: 24 of 24

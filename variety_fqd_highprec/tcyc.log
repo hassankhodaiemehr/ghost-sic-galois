@@ -1,0 +1,337 @@
+N=5 cycle=a=1 eigdims=[2, 2, 1] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=2 eigdims=[1, 2, 2] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=3 eigdims=[1, 2, 2] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=4 eigdims=[2, 2, 1] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=6 eigdims=[2, 2, 1] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=7 eigdims=[1, 2, 2] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=8 eigdims=[1, 2, 2] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=5 cycle=a=9 eigdims=[2, 2, 1] pairing-solutions=5 pentagon-solutions=5 t-real=5 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=6 cycle=a=1 eigdims=[2, 3, 1] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=6 cycle=a=5 eigdims=[3, 2, 1] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=6 cycle=a=7 eigdims=[3, 1, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=6 cycle=a=11 eigdims=[2, 1, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=1 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=2 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=3 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=4 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=5 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=6 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=8 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=9 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=10 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=11 eigdims=[2, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=12 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=7 cycle=a=13 eigdims=[2, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=1 eigdims=[3, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=3 eigdims=[3, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=5 eigdims=[3, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=7 eigdims=[3, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=9 eigdims=[3, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=11 eigdims=[3, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=13 eigdims=[3, 3, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=8 cycle=a=15 eigdims=[3, 2, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=1 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=2 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=4 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=5 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=7 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=8 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=10 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=11 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=13 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=14 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=16 eigdims=[3, 4, 2] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=9 cycle=a=17 eigdims=[3, 2, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=1 eigdims=[3, 4, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=3 eigdims=[4, 3, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=7 eigdims=[4, 3, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=9 eigdims=[3, 4, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=11 eigdims=[3, 3, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=13 eigdims=[4, 3, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=17 eigdims=[4, 3, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=10 cycle=a=19 eigdims=[3, 3, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=1 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=2 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=3 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=4 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=5 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=6 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=7 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=8 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=9 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=10 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=12 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=13 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=14 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=15 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=16 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=17 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=18 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=19 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=20 eigdims=[4, 4, 3] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=11 cycle=a=21 eigdims=[4, 3, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=1 eigdims=[4, 5, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=5 eigdims=[4, 3, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=7 eigdims=[3, 4, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=11 eigdims=[5, 4, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=13 eigdims=[5, 3, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=17 eigdims=[3, 5, 4] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=19 eigdims=[4, 5, 3] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=12 cycle=a=23 eigdims=[4, 3, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=1 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=2 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=3 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=4 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=5 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=6 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=7 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=8 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=9 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=10 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=11 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=12 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=14 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=15 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=16 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=17 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=18 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=19 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=20 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=21 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=22 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=23 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=24 eigdims=[5, 4, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=13 cycle=a=25 eigdims=[4, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=1 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=3 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=5 eigdims=[5, 4, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=9 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=11 eigdims=[5, 5, 4] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=13 eigdims=[5, 4, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=15 eigdims=[5, 5, 4] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=17 eigdims=[5, 4, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=19 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=23 eigdims=[5, 5, 4] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=25 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=14 cycle=a=27 eigdims=[4, 5, 5] pairing-solutions=6 pentagon-solutions=6 t-real=6 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=1 eigdims=[4, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=2 eigdims=[6, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=4 eigdims=[4, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=7 eigdims=[6, 4, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=8 eigdims=[6, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=11 eigdims=[4, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=13 eigdims=[6, 4, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=14 eigdims=[4, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=16 eigdims=[4, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=17 eigdims=[6, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=19 eigdims=[4, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=22 eigdims=[6, 4, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=23 eigdims=[6, 5, 4] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=26 eigdims=[4, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=28 eigdims=[6, 4, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=15 cycle=a=29 eigdims=[4, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=1 eigdims=[5, 5, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=3 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=5 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=7 eigdims=[5, 6, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=9 eigdims=[5, 5, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=11 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=13 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=15 eigdims=[5, 6, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=17 eigdims=[5, 5, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=19 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=21 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=23 eigdims=[5, 6, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=25 eigdims=[5, 5, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=27 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=29 eigdims=[6, 5, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=16 cycle=a=31 eigdims=[5, 6, 5] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=1 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=2 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=3 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=4 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=5 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=6 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=7 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=8 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=9 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=10 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=11 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=12 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=13 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=14 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=15 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=16 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=18 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=19 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=20 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=21 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=22 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=23 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=24 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=25 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=26 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=27 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=28 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=29 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=30 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=31 eigdims=[6, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=32 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=17 cycle=a=33 eigdims=[5, 6, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=1 eigdims=[5, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=5 eigdims=[7, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=7 eigdims=[7, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=11 eigdims=[5, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=13 eigdims=[5, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=17 eigdims=[7, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=19 eigdims=[7, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=23 eigdims=[5, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=25 eigdims=[5, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=29 eigdims=[7, 6, 5] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=31 eigdims=[7, 5, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=18 cycle=a=35 eigdims=[5, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=1 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=2 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=3 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=4 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=5 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=6 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=7 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=8 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=9 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=10 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=11 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=12 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=13 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=14 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=15 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=16 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=17 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=18 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=20 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=21 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=22 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=23 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=24 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=25 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=26 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=27 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=28 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=29 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=30 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=31 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=32 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=33 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=34 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=35 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=36 eigdims=[6, 6, 7] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=19 cycle=a=37 eigdims=[6, 7, 6] pairing-solutions=4 pentagon-solutions=4 t-real=4 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=1 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=3 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=7 eigdims=[7, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=9 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=11 eigdims=[7, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=13 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=17 eigdims=[7, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=19 eigdims=[7, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=21 eigdims=[7, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=23 eigdims=[7, 6, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=27 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=29 eigdims=[7, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=31 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=33 eigdims=[7, 7, 6] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=37 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=20 cycle=a=39 eigdims=[6, 7, 7] pairing-solutions=8 pentagon-solutions=8 t-real=8 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=1 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=2 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=4 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=5 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=8 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=10 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=11 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=13 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=16 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=17 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=19 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=20 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=22 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=23 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=25 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=26 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=29 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=31 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=32 eigdims=[7, 6, 8] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=34 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=37 eigdims=[8, 6, 7] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=38 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=40 eigdims=[7, 8, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+N=21 cycle=a=41 eigdims=[8, 7, 6] pairing-solutions=10 pentagon-solutions=10 t-real=10 pentagon-but-t-nonreal=0 mixed-type(pairing)=0
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU name (from build time).
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:71
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +tsxldtrk.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512ifma.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +sha.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +vpclmulqdq.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +cldemote.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512bf16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-tile.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +gfni.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512bitalg.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +movdiri.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avxvnni.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512fp16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-bf16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vpopcntdq.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +rdpid.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +movdir64b.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vbmi2.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +serialize.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +vaes.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-int8.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +wbnoinvd.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vbmi.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56

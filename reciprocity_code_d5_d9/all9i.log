@@ -1,0 +1,25 @@
+automorphisms preserving this ghost: 18 of 36
+automorphisms moving all overlaps outside: 18
+L = [7, 3; 2, 1]
+X^2 = [6, 0; 0, 6] [6, 0; 0, 6]
+sq ok 1
+split principal (ghost-preserving) tested: 122; principal primes total preserve: 122
+nonprincipal split primes: 136, of which ghost-preserving: 0
+no frob found: 0
+inert: 276 ghost-preserving 276 law qI/-qI: [-1, 0; 1, 276]
+1-1-1+ -> 0
+1-1-1- -> 1
+1-11+ -> 1
+1-11- -> 5
+11-1+ -> 15
+11-1- -> 35
+111+ -> 15
+111- -> 29
+2-1-1+ -> 0
+2-1-1- -> 1
+2-11+ -> 1
+2-11- -> 5
+21-1+ -> 2
+21-1- -> 4
+211+ -> 56
+211- -> 122

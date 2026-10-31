@@ -1,0 +1,4 @@
+k=21 N=12 u0=1 deg x=4 reciprocal=1 generates=0 kappa inverts all x_v=-1 P_t(2)P_t(-2) sign=-1
+k=21 N=12 u0=2 deg x=4 reciprocal=1 generates=0 kappa inverts all x_v=-1 P_t(2)P_t(-2) sign=-1
+k=21 N=12 u0=6 deg x=8 reciprocal=1 generates=1 kappa inverts all x_v=1 P_t(2)P_t(-2) sign=1
+k=21 N=12 u0=7 deg x=8 reciprocal=1 generates=1 kappa inverts all x_v=1 P_t(2)P_t(-2) sign=1

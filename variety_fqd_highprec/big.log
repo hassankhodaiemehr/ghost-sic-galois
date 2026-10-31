@@ -1,0 +1,32 @@
+(16,) d= 16 best gap=-1.55e-15 hits 13 5s
+(4, 4) d= 16 best gap=2.57e-02 hits 0 8s
+(2, 8) d= 16 best gap=9.52e-02 hits 0 7s
+(2, 2, 4) d= 16 best gap=5.51e-02 hits 0 7s
+(2, 2, 2, 2) d= 16 best gap=2.68e-01 hits 0 7s
+(18,) d= 18 best gap=-2.89e-15 hits 6 6s
+(3, 6) d= 18 best gap=9.59e-02 hits 0 9s
+(20,) d= 20 best gap=-1.11e-15 hits 6 6s
+(2, 10) d= 20 best gap=7.89e-02 hits 0 10s
+(24,) d= 24 best gap=3.51e-02 hits 0 8s
+(2, 12) d= 24 best gap=1.33e-01 hits 0 14s
+(2, 2, 6) d= 24 best gap=1.61e-01 hits 0 14s
+(25,) d= 25 best gap=-1.55e-15 hits 1 8s
+(5, 5) d= 25 best gap=3.69e-02 hits 0 12s
+(27,) d= 27 best gap=-2.22e-15 hits 1 10s
+(3, 9) d= 27 best gap=1.03e-01 hits 0 14s
+(3, 3, 3) d= 27 best gap=3.44e-02 hits 0 12s
+(28,) d= 28 best gap=3.08e-02 hits 0 11s
+(2, 14) d= 28 best gap=1.50e-01 hits 0 18s
+(32,) d= 32 best gap=1.65e-01 hits 0 13s
+(2, 16) d= 32 best gap=1.69e-01 hits 0 18s
+(4, 8) d= 32 best gap=8.80e-02 hits 0 21s
+(2, 2, 8) d= 32 best gap=1.77e-01 hits 0 27s
+(2, 4, 4) d= 32 best gap=2.94e-02 hits 0 28s
+(2, 2, 2, 4) d= 32 best gap=1.70e-01 hits 0 49s
+(2, 2, 2, 2, 2) d= 32 best gap=6.10e-01 hits 0 68s
+(36,) d= 36 best gap=1.91e-01 hits 0 56s
+(2, 18) d= 36 best gap=1.99e-01 hits 0 60s
+(3, 12) d= 36 best gap=1.88e-01 hits 0 57s
+(6, 6) d= 36 best gap=1.91e-01 hits 0 64s
+(2, 2, 9) d= 36 best gap=1.91e-01 hits 0 40s
+(2, 3, 6) d= 36 best gap=7.88e-02 hits 0 85s

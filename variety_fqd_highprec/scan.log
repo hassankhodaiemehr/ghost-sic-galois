@@ -1,0 +1,163 @@
+N=5 cycle=Any[3, 3] +RUe:1 -U:4  (42.7s)
+N=5 cycle=Any[7] +R:4 -RUe:1  (0.0s)
+N=6 cycle=Any[2, 2, 4] +R:2 -U:2  (4.9s)
+N=6 cycle=Any[2, 5] +R:2 -U:2  (0.0s)
+N=6 cycle=Any[8] +R:2 -U:2  (0.0s)
+N=7 cycle=Any[9] +R:2 -U:2  (0.0s)
+N=8 cycle=Any[2, 2, 2, 4] +R:2 -U:2  (0.0s)
+N=8 cycle=Any[2, 3, 3] +R:2 -U:2  (0.0s)
+N=8 cycle=Any[2, 6] +R:2 -U:2  (0.0s)
+N=8 cycle=Any[3, 4] +R:2 -U:2  (0.0s)
+N=8 cycle=Any[10] +R:2 -U:2  (0.0s)
+N=9 cycle=Any[2, 2, 5] +R:4 -U:4  (4.7s)
+N=9 cycle=Any[11] +R:2 -U:2  (3.7s)
+N=10 cycle=Any[2, 7] +R:2 -U:2  (0.0s)
+N=10 cycle=Any[12] +R:2 -U:2  (0.0s)
+N=11 cycle=Any[2, 2, 3, 3] +R:4 -U:4  (0.0s)
+N=11 cycle=Any[3, 5] +R:4 -U:4  (0.0s)
+N=11 cycle=Any[13] +R:4 -U:4  (0.0s)
+N=12 cycle=Any[2, 2, 2, 5] +R:4  (0.1s)
+N=12 cycle=Any[2, 2, 6] +R:4  (0.1s)
+N=12 cycle=Any[2, 3, 2, 3] +R:2 -U:2  (0.1s)
+N=12 cycle=Any[2, 8] +R:4  (0.0s)
+N=12 cycle=Any[4, 4] +R:2 -U:2  (0.1s)
+N=12 cycle=Any[14] +R:4  (0.1s)
+N=13 cycle=Any[2, 3, 4] +R:4 -U:4  (0.1s)
+N=13 cycle=Any[2, 4, 3] +R:4 -U:4  (0.1s)
+N=13 cycle=Any[15] +R:4 -U:4  (0.1s)
+N=14 cycle=Any[2, 9] +R:6  (0.1s)
+N=14 cycle=Any[3, 6] +R:6  (0.1s)
+N=14 cycle=Any[16] +R:6  (0.1s)
+N=15 cycle=Any[2, 2, 7] +R:4 -U:4  (5.0s)
+N=15 cycle=Any[17] +R:4 -U:4  (0.2s)
+N=16 cycle=Any[2, 2, 2, 6] +R:4 -U:4  (0.2s)
+N=16 cycle=Any[2, 10] +R:2 -U:2  (0.2s)
+N=16 cycle=Any[3, 3, 3] +R:4 -U:4  (0.1s)
+N=16 cycle=Any[4, 5] +R:2 -U:2  (0.1s)
+N=16 cycle=Any[18] +R:2 -U:2  (0.2s)
+N=17 cycle=Any[3, 7] +R:4 -U:4  (0.2s)
+N=17 cycle=Any[19] +R:4 -U:4  (0.3s)
+N=18 cycle=Any[2, 2, 3, 4] +R:4 -U:4  (6.1s)
+N=18 cycle=Any[2, 2, 4, 3] +R:4 -U:4  (0.4s)
+N=18 cycle=Any[2, 2, 8] +R:8 -U:8  (8.8s)
+N=18 cycle=Any[2, 3, 5] +R:4 -U:4  (0.5s)
+N=18 cycle=Any[2, 5, 3] +R:4 -U:4  (0.4s)
+N=18 cycle=Any[2, 11] +R:4 -U:4  (0.4s)
+N=18 cycle=Any[20] +R:4 -U:4  (0.5s)
+N=19 cycle=Any[21] +R:2 -U:2  (0.6s)
+N=20 cycle=Any[2, 2, 2, 7] +R:4 -U:4  (0.7s)
+N=20 cycle=Any[2, 3, 2, 4] +R:4 -U:4  (0.8s)
+N=20 cycle=Any[2, 4, 4] +R:4 -U:4  (0.7s)
+N=20 cycle=Any[2, 12] +R:4 -U:4  (0.8s)
+N=20 cycle=Any[3, 8] +R:4 -U:4  (0.7s)
+N=20 cycle=Any[4, 6] +R:4 -U:4  (0.8s)
+N=20 cycle=Any[22] +R:4 -U:4  (0.7s)
+N=21 cycle=Any[2, 2, 9] +R:10  (1.9s)
+N=21 cycle=Any[5, 5] +R:10  (1.4s)
+N=21 cycle=Any[23] +R:10  (1.4s)
+N=22 cycle=Any[2, 13] +R:2 -U:2  (1.7s)
+N=22 cycle=Any[24] +R:2 -U:2  (1.5s)
+N=23 cycle=Any[2, 3, 6] +R:8 -U:8  (2.5s)
+N=23 cycle=Any[2, 6, 3] +R:8 -U:8  (2.3s)
+N=23 cycle=Any[3, 9] +R:8 -U:8  (2.5s)
+N=23 cycle=Any[25] +R:8 -U:8  (2.4s)
+N=24 cycle=Any[2, 2, 2, 8] +R:4 -U:4  (14.7s)
+N=24 cycle=Any[2, 2, 10] +R:4 -U:4  (4.4s)
+N=24 cycle=Any[2, 3, 3, 3] +R:4 -U:4  (4.6s)
+N=24 cycle=Any[2, 14] +R:4 -U:4  (4.7s)
+N=24 cycle=Any[3, 3, 4] +R:4 -U:4  (4.6s)
+N=24 cycle=Any[4, 7] +R:4 -U:4  (4.1s)
+N=24 cycle=Any[26] +R:4 -U:4  (4.5s)
+N=25 cycle=Any[2, 2, 3, 5] +R:4 -U:4  (5.0s)
+N=25 cycle=Any[2, 2, 5, 3] +R:4 -U:4  (5.5s)
+N=25 cycle=Any[27] +R:4 -U:4  (5.1s)
+N=26 cycle=Any[2, 15] +R:4 -U:4  (7.8s)
+N=26 cycle=Any[3, 10] +R:4 -U:4  (6.6s)
+N=26 cycle=Any[5, 6] +R:4 -U:4  (7.3s)
+N=26 cycle=Any[28] +R:4 -U:4  (6.9s)
+N=27 cycle=Any[2, 2, 11] +R:12 -U:12  (53.2s)
+N=27 cycle=Any[2, 4, 5] +R:6 -U:6  (29.3s)
+N=27 cycle=Any[2, 5, 4] +R:6 -U:6  (12.5s)
+N=27 cycle=Any[29] +R:6 -U:6  (12.1s)
+N=28 cycle=Any[2, 2, 2, 9] +R:8  (15.9s)
+N=28 cycle=Any[2, 2, 4, 4] +R:4 -U:4  (15.2s)
+N=28 cycle=Any[2, 3, 2, 5] +R:4 -U:4  (14.6s)
+N=28 cycle=Any[2, 3, 7] +R:8  (16.4s)
+N=28 cycle=Any[2, 7, 3] +R:8  (15.9s)
+N=28 cycle=Any[2, 16] +R:4 -U:4  (16.3s)
+N=28 cycle=Any[4, 8] +R:4 -U:4  (15.1s)
+N=28 cycle=Any[30] +R:8  (15.3s)
+N=29 cycle=Any[3, 11] +R:4 -U:4  (21.4s)
+N=29 cycle=Any[31] +R:4 -U:4  (21.6s)
+N=30 cycle=Any[2, 2, 12] +R:4 -U:4  (40.8s)
+N=30 cycle=Any[2, 17] +R:4 -U:4  (38.5s)
+N=30 cycle=Any[32] +R:4 -U:4  (37.5s)
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU name (from build time).
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:71
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +tsxldtrk.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512ifma.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +sha.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +vpclmulqdq.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +cldemote.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512bf16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-tile.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +gfni.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512bitalg.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +movdiri.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avxvnni.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512fp16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-bf16.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vpopcntdq.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +rdpid.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +movdir64b.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vbmi2.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +serialize.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +vaes.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +amx-int8.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +wbnoinvd.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56
+┌ Warning: Runtime invalidation was disabled, but the CPU info is out-of-date.
+│ Will continue with incorrect CPU feature flag: +avx512vbmi.
+└ @ HostCPUFeatures ~/.julia/packages/HostCPUFeatures/ZTXz4/src/cpu_info.jl:56

@@ -1,0 +1,2 @@
+p=[0, 1] deg t=16 |t|>2:8 |t|<2:8 nonreal:0 sqrt(D) in Q(t), agree, disagree:[1, 16, 0] m=8 P(0)=3721 P(2)=Mat([5, 2]) P(-2)=Mat([5, 2]) P:x^16 - 32*x^14 + 423*x^12 - 2984*x^10 + 12105*x^8 - 28304*x^6 + 36023*x^4 - 21432*x^2 + 3721
+[0;31m  ***   domain error in setdebug: en not a valid debug domain[0m
